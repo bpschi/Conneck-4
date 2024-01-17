@@ -75,7 +75,7 @@ The implementation of ConnecK 4 takes inspiration from how one might model real-
             ```
         + *__str__* is overridden to render the *GameBoard* using a combination of ASCII and [emoji](https://pypi.org/project/emoji/) characters. The game header indicates the number of chips to win, and the footer indicates the turn number. The prompt asks the player to enter a column number to drop a chip.
 
-            ![Default 6x7 Game Board](images/default_board.jpg)
+            ![Default 6x7 Game Board](default_board.jpg)
 
 + 3 custom functions model and encapsulate the 3 primary actions of game play:
     + **Dropping a chip into a column**
