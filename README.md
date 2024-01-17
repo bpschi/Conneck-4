@@ -170,7 +170,7 @@ python project.py -r 4 -c 4 -l 3
 
 Below are representative visuals of ConnecK 4 gameplay illustrating various game board sizes and states.
 
-![Examples of Game Play with Various Board Sizes and States](images/gameplay.jpg)
+![Examples of Game Play with Various Board Sizes and States](gameplay.jpg)
 
 ## Roadmap
 
